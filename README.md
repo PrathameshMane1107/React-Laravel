@@ -32,8 +32,7 @@ A full-stack Survey application built using **Laravel** for the backend (API) an
 
 ---
 
-
-2. Backend Setup (Laravel)
+--Backend Setup (Laravel)
 
 cd backend
 
@@ -54,8 +53,7 @@ php artisan migrate
 # Start Laravel server
 php artisan serve
 
-
-3. Frontend Setup (React)
+--Frontend Setup (React)
 
 Open a new terminal window:
 
